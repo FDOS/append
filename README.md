@@ -9,6 +9,7 @@ Syntax:
 -------
 
   `APPEND [[drive:]path[;...]] [/X[:ON|:OFF]] [/PATH:ON|/PATH:OFF] [/E]`
+
   `APPEND ;`
 
  *   [drive:]path Drive and directory to append.
